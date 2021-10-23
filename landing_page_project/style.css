@@ -1,0 +1,70 @@
+body{
+    width: 1200px;
+    margin: auto;
+font-family: monospace;
+font-size: larger;
+}
+
+
+
+a{
+    text-decoration:none;
+    color: white;
+   }
+
+
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;S
+    background-color: rgb(8, 72, 94);
+    padding: 20px;
+}
+
+.title{
+    flex: .5;
+    font-size: 25px;
+}
+
+.container2{
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 50px;
+background-color:white;
+
+}
+
+.image{
+    height: 300px;
+    width: auto;
+}
+
+.miami{
+    text-align: center;
+   
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
+.container3{
+    display: flex;
+justify-content: space-evenly;
+padding: 50px;
+background-color: rgb(8, 72, 95);
+color: white;
+text-align: center;
+}
+
+.image1{
+    height: 240px;
+    width: 240px;
+    border-radius: 15px;
+    border: 2px black;
+}
+
+.team{
+    text-decoration: none;
+
+}
